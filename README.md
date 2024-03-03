@@ -4,9 +4,8 @@ Welcome to Photo Tiles, your premier destination for beautifully crafted frames.
 
 ## Web Images
 
-![sample text](![image](https://github.com/NAWSHERWAN-ALI/JS-practice/assets/153446332/8e0d8b17-6a1b-4344-aad5-e83dc3d5b9ed)
+![Main banner section](![image](https://github.com/Umer-khan00/user-web/blob/main/Screenshot%20(770).png)
 )
-
 ## Table of Contents
 
 - [Introduction](#introduction)
